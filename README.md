@@ -1,10 +1,10 @@
 # Introduction about me! Yay.
 
 - 👋 Hi, I’m Dani
-- 👀 I’m currently in Web development, Data Science, and UI/UX design. However, I'm still learning so I still *suck*. I'll get there one day! 
+- 👀 I’m currently interested in Web development, Data Science, and UI/UX design. However, I'm still learning so I still *suck*. I'll get there one day! 
 - 🌱 I’m currently learning data analysis through python because of some competition lol (UPDATE: We placed 12th out of 30 semi-finalist team! Not bad for a total beginner!).
 - 💞️ I’m looking to collaborate on anything! As long as you will allow me to grow.
-- 📫 How to reach me: through my email, dsmanabat@up.edu.ph
+- 📫 How to reach me: through my email: dsmanabat@up.edu.ph
 
 <!---
 semiking234/semiking234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
