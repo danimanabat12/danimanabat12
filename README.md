@@ -1,3 +1,5 @@
+#Introduction about me! Yay.....
+
 - 👋 Hi, I’m Dani
 - 👀 I’m interested in Web development and Data Science, but I'm such a noob
 - 🌱 I’m currently learning data analysis through python because of some competition lol
