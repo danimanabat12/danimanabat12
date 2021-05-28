@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Dani
 - 👀 I’m currently interested in Web development, Data Science, and UI/UX design. However, I'm still learning so I still *suck*. I'll get there one day! 
-- 🌱 I’m currently learning data analysis through python because of some competition lol (UPDATE: We placed 12th out of 30 semi-finalist team! Not bad for a total beginner!).
+- 🌱 I’m currently learning web development fundamentals
 - 💞️ I’m looking to collaborate on anything! As long as you will allow me to grow.
 - 📫 How to reach me: through my email: dsmanabat@up.edu.ph
 
