@@ -1,7 +1,7 @@
 # Introduction about me! Yay.
 
 - 👋 Hi, I’m Dani. I use She/They pronouns!
-- 💻 I'm currently a mobile development intern (I use Flutter, fyi!)
+- 💻 I'm currently a mobile development intern (I use Flutter, btw!)
 - 👀 I’m currently interested in UI/UX design and Frontend development
 - 🌱 I’m currently learning Mobile development fundamentals
 - 💞️ I’m looking to collaborate on anything! As long as you will allow me to grow.
