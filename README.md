@@ -1,9 +1,9 @@
 # Hi! My name is Dani👋🏼 
 
 - 🌈 My preferred pronouns are **She/They**! _#QueerInTech_
-- 💻 I'm currently as a Research and Development Engineer.
-- 👀 I’m currently interested in Data Science.
-- 🌱 I’m currently diving deeper in Machine learning.
+- 💻 I'm currently an Automation Engineer (Test Automation, Robotic Process Automation).
+- 👀 Highly interested in Data Engineering.
+- 🌱 I’m currently diving deeper in Cloud Engineering.
 - 💞️ I’m looking to collaborate on anything! As long as you will allow me to grow.
 - 📫 How to reach me
     - through my email: dsmanabat@alum.up.edu.ph/danimanabat12@gmail.com
