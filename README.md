@@ -2,8 +2,8 @@
 
 - 🌈 My preferred pronouns are **She/They**! _#QueerInTech_
 - 💻 I'm currently an Automation Engineer (Test Automation, Robotic Process Automation).
-- 👀 Highly interested in Data Engineering.
-- 🌱 I’m currently diving deeper in Cloud Engineering.
+- 👀 Highly interested in Data Engineering (or honestly, just anything data-related).
+- 🌱 I’m currently diving deeper in Cloud Engineering and Automation technologies.
 - 💞️ I’m looking to collaborate on anything! As long as you will allow me to grow.
 - 📫 How to reach me
     - through my email: dsmanabat@alum.up.edu.ph/danimanabat12@gmail.com
